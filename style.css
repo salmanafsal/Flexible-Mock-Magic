@@ -85,3 +85,14 @@ footer {
 }
 
 /* CODE YOUR FLEXBOXES HERE */
+
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
